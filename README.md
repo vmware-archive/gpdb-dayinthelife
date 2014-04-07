@@ -1,5 +1,7 @@
-== INTRODUCTION
+# INTRODUCTION
+
 This is the "Day-in-the-Life" demo for prospects new to Greenplum/MPP database. 
+
 Its most effective when executed on a 1/4 rack DCA.  This is designed to be easily portable/re-creatable so demos can be spun-up quickly
 
 1. The premise is to showcase how GPDB can address day-to-day tasks performed in typical DW/BI environments.  
@@ -11,4 +13,5 @@ Its most effective when executed on a 1/4 rack DCA.  This is designed to be easi
 7. USE THE gpdemo-dwbi.sql SCRIPT TO EXECUTE THE STEPS IN THE DEMO.
 
 Originally the work of Brad Ganas
+
 BIG Thanks to those who inspired this:  Matt Neglay, Austin Rutherford, and others!!
